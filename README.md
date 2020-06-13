@@ -1,7 +1,7 @@
 # Homework-2
 Домашнее задание 2
 
-Датасет: https://www.kaggle.com/haezer/french-baby-names?select=national_names.csv
+Датасет: https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020
 
 
 Взять любой открытый датасет и исследовать его.
